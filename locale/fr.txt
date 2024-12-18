@@ -1,0 +1,27 @@
+#: locale=fr
+
+## Action
+
+### URL
+LinkBehaviour_A5C8BBA4_B0FB_45E7_41E2_C1A1C479EDF4.source = https://www.instagram.com/narchi.in/?igshid=YmMyMTA2M2Y%3D
+
+## Media
+
+### Title
+album_A276E60E_B0CB_CEA3_41E3_6FAEC36FE078_0.label = EXT2
+album_A276E60E_B0CB_CEA3_41E3_6FAEC36FE078_1.label = EXT3
+album_A276E60E_B0CB_CEA3_41E3_6FAEC36FE078.label = EXTERIOR
+panorama_A29AA9CA_B0C5_45A3_41CE_01EAAB5492F2.label = Oasis bathroom
+panorama_BC16D6AD_B0BB_CFE1_41E4_F27B6CC582E9.label = Oasis room
+
+## Skin
+
+### Image
+Image_A4D64E2B_B0C5_5EE1_41D3_C59863517466.url = skin/Image_A4D64E2B_B0C5_5EE1_41D3_C59863517466_fr.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
